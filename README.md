@@ -1,8 +1,9 @@
 # Carbon Market Dynamics and Insights
 This project intends to leverage the ability of LLMs to provide insight and prediction of carbon pricing with using LCFS as example,
 
-slides: 
-paper link: https://onepetro.org/SPEWRM/proceedings-abstract/25WRM/25WRM/656707
+- paper link: https://onepetro.org/SPEWRM/proceedings-abstract/25WRM/25WRM/656707
+
+- slides: https://github.com/geoz-lab/Carbon_Intelligence_Using_LLMs/blob/16cb4e5ed86ab8d8b0dec8fc6f88fac87ad1e206/Related_slides.pdf
 
 ## The mechanism is simple
 ![prediction_mechanism](https://github.com/user-attachments/assets/c4d47ea0-ccad-41c0-a077-4c199b6dc525)
